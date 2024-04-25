@@ -1,5 +1,5 @@
 .App {
-    display: flex;
+   
     justify-content: space-between; /* Align children with space between */
     align-items: center; /* Center children vertically */
     height: 100vh; /* Set container height to full viewport height */
