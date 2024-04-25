@@ -4,7 +4,7 @@ import './Login.css';
 
 function Login() {
   return (
-    <div className="App">
+    <div className="con">
   <ParticlesComponent id="particles" />
   <div className='teacher'>
     Teacher <br/><br/><br/>

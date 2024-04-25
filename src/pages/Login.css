@@ -1,5 +1,5 @@
-.App {
-   
+.con {
+    display: flex;
     justify-content: space-between; /* Align children with space between */
     align-items: center; /* Center children vertically */
     height: 100vh; /* Set container height to full viewport height */
@@ -8,6 +8,7 @@
   
   .teacher,
   .student {
+    justify-content: space-between;
     flex-basis: 45%; /* Set width for each section */
     padding: 20px; /* Add padding for better spacing */
   }
